@@ -31,5 +31,3 @@
 - 督促自己思考，并记录成长的轨迹
 
 - 交流知识，深入理解知识
-
-  ![Snip20180720_4](/Users/zhangyongwei/Desktop/Snip20180720_4.png)
