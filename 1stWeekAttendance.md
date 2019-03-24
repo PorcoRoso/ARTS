@@ -64,7 +64,7 @@ func topFromMap(maps map[int]int) int {
 }
 ```
 
-###Review
+### Review
 
 ---
 
@@ -74,9 +74,9 @@ fabric 1.4发布有一段时间了，这是官方对外宣布的第一个LTS版�
 
 原地址：https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html
 
-翻译地址：
+翻译地址：https://github.com/PorcoRoso/ARTS/blob/master/review/fabric.md
 
-###Tips
+### Tips
 
 ---
 
@@ -84,7 +84,7 @@ fabric 1.4发布有一段时间了，这是官方对外宣布的第一个LTS版�
 
 简简单单四点，串起来就是一个简短的故事，瞬间别人就能记住你。
 
-Share
+### Share
 
 ---
 

@@ -10,7 +10,7 @@
 
 如果您使用的是Fabric v1.4，则可以放心能够安全的升级到后续任何补丁版本。在需要一些升级过程来修复缺陷时，官方会为该过程提供补丁版本。
 
-####可维护性和操作改进
+#### 可维护性和操作改进
 
 随着越来越多（公司应用）的Fabric网络部署并进入生产状态，Fabirc可维护性和操作变得至关重要。 Fabric v1.4通过日志记录改进，运行状况检查和运营指标实现了巨大飞跃。 因此，Fabric v1.4是生产操作的推荐版本。
 
@@ -44,19 +44,19 @@
 
 - *[商业票据教程](https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorial/commercial_paper.html)*
 
-####新教程
+#### 新教程
 
 - [编写您的第一个应用程序](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html)：本教程已更新，以利用改进的Node.js SDK和链代码编程模型。 本教程包含客户端应用程序和链码的JavaScript和Typescript示例。
 - [商业票据](https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorial/commercial_paper.html)：教程如上所述，这是新开发应用程序文档附带的教程。
 - [升级到最新版本的Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/upgrade_to_newest_version.html)：利用[Building Your First Network](https://hyperledger-fabric.readthedocs.io/en/release-1.4/build_network.html)脚本构建的网络演示从v1.3到v1.4的升级。 包括脚本（可用作升级模板）以及各个命令，以便您可以了解升级的每个步骤。
 
-####私有数据增强功能
+#### 私有数据增强功能
 
 - [私有数据](https://hyperledger-fabric.readthedocs.io/en/release-1.4/private-data-arch.html)：私有数据功能自v1.2开始成为Fabric的一部分，此版本推出了两个新的增强功能：
   - 协调，允许添加到私有数据集合的组织的peer节点，检索其现在有权使用的先前事务的私有数据。
   - 客户端访问控制，可根据客户端组织集合成员资格在链码中自动实施访问控制，而无需编写特定的链码逻辑。
 
-####发行说明
+#### 发行说明
 本发行说明为迁移到新版本的用户提供了更多详细信息，以及指向完整版本变更- 日志的链接。
 
 - [Fabric发布说明](https://github.com/hyperledger/fabric/releases/tag/v1.4.0)。
