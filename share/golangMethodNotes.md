@@ -1,4 +1,4 @@
-##golang struct的指针接收者和值接收者比较
+## golang struct的指针接收者和值接收者比较
 在学习reflect过程中，看到demo如下：
 ```go
 // 定义一个结构体用来进行测试
